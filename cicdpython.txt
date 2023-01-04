@@ -1,0 +1,13 @@
+import random
+#Generate 5 random numbers between 10 and 30.
+random_list = random.sample(range(10, 40), 6)
+print(random_list)
+
+print("well come to ci/cd jenkins")
+print("git")
+print(" github")
+print("jenkins")
+print("docker")
+print("cloud")
+print( "image")
+print("anaysis,plan,requriments,dev,test,devlpoment,javascrpit,python script,tools ci/cd,build test ,image ")

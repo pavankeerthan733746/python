@@ -11,3 +11,7 @@ print("docker")
 print("cloud")
 print( "image")
 print("anaysis,plan,requriments,dev,test,devlpoment,javascrpit,python script,tools ci/cd,build test ,image ")
+
+jenkisns password
+
+3d1a1a0c3efb4bce80c85bfff35081c0

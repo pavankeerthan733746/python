@@ -1,0 +1,7 @@
+print("hello")
+print("bye")
+a=10
+b=32
+print(a+b,a-b,a*b,a and b , a or b, a%b)
+list=[1,2,3,4]
+print(list)
